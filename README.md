@@ -11,3 +11,5 @@ To see the code for the API, visit: https://github.com/SaadMukhtar/EmployeeManag
 - Create Employee Info Card
 - Update Employee Info Card
 - Delete Employee Info Card
+
+Credits also given to amigoscode!
